@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "lsd",
+    "repository": "android_device_sony_shinano",
+    "target_path": "device/sony/shinano",
+    "revision": "5.1"
+  }
+]
